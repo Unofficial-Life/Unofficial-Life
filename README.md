@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Lavanik
-- 👀 I’m interested in learning mobile app development
-- 🌱 I’m currently learning nothing
-- New to GitHub and don't know how to use it. If I mess up something please guide me to correct it not a programmer (don't know a thing) just doing tweakings &#128512;
+<h1 align="center">Hey there &#x1F44B;, It's me Unofficial Life <img src="https://github.com/Unofficial-Life/Unofficial-Life.github.io/blob/master/res/img/avatar.webp"></h1>
+
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=Unofficial-Life&label=Profile%20Views&color=3&icon=0&pretty=true">
+	
 
 
-<!---
-Lavanik/Lavanik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## <p align="center"> GitHub Stats: 
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Unofficial-Life%20&theme=green-nur&date_format=M%20j%5B%2C%20Y%5D">
+
+
+
+---
